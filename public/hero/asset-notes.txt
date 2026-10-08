@@ -1,0 +1,4 @@
+Asset: mascot.webp
+Created using built-in image_gen; source preserved as mascot-source.png.
+Prompt: Preserve the attached cartoon boy’s face, brown eyes, smile, swept brown hair, white and royal-blue hoodie, tissue and pointing pose. Refine sculpted hair, silhouette and premium 3D lighting. Character only on transparent alpha; no logo, writing, watermark or backdrop.
+Optimization: lossless WebP, 1121 × 1403, alpha preserved. 1,204,478 bytes versus PNG 1,906,886 bytes.
