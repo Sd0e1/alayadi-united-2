@@ -19,7 +19,7 @@ export default function Home() {
       </div>
       <div className="category-strip"><div className="shell"><span>01 <strong>مناديل يومية</strong></span><span>02 <strong>رول جامبو</strong></span><span>03 <strong>سفر المائدة</strong></span><span>04 <strong>صابون</strong></span><span>05 <strong>سائل الجلي</strong></span></div></div>
       <div className="shell catalog-shell"><Catalog products={products} /></div>
-      <section id="contact" className="contact-panel shell"><span className="eyebrow">نحن بالقرب منك</span><h2>اختَر احتياجك، ودعنا نتواصل.</h2><p>للاستفسار عن الأسعار وطلب المنتجات، تواصل مباشرة مع شركة الأيادي المتحدة.</p><a className="primary-button" href={`https://wa.me/${store.whatsappNumber}`} target="_blank" rel="noopener noreferrer">تواصل عبر WhatsApp ↗</a><span className="phone" dir="ltr">+964 774 927 0990</span></section>
+      <section id="contact" className="contact-panel shell"><span className="eyebrow">نحن بالقرب منك</span><h2>اختَر احتياجك، ودعنا نتواصل.</h2><p>للاستفسار عن الأسعار وطلب المنتجات، تواصل مباشرة مع شركة الأيادي المتحدة.</p><a className="primary-button" href={`https://wa.me/${store.whatsappNumber}`} target="_blank" rel="noopener noreferrer">تواصل عبر WhatsApp ↗</a><span className="phone" dir="ltr">+964 781 876 2287</span></section>
     </main>
     <footer className="site-footer shell"><strong>{store.name}</strong><span>مناديل · رول جامبو · سفر المائدة · صابون · سائل الجلي</span><a href="#products">تصفّح الكتالوج ↑</a><small className="developer-credit">تم تطوير موقع بواسطة فيصل <bdi>fa</bdi></small></footer>
   </>;
